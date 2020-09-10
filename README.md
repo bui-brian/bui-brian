@@ -3,7 +3,7 @@
 My name is Brian Bui, nice to meet you! I am currently pursuing a double bachelor's degree in Computer Science and Mathematics from [The University of Nebraska-Lincoln](https://www.unl.edu/).
 
 Find out more about me & feel free to connect with me here:
-[![Linkedin Badge](https://img.shields.io/badge/-buibrian-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bui-brian/)](https://www.linkedin.com/in/bui-brian/)
+[![Linkedin Badge](https://img.shields.io/badge/-bui%7Ebrian-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bui-brian/)](https://www.linkedin.com/in/bui-brian/)
 [![Gmail Badge](https://img.shields.io/badge/-bui.brian99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bui.brian99@gmail.com)](mailto:bui.brian99@gmail.com)
 
 ## ⚡ Languages & Technologies
@@ -18,4 +18,4 @@ Find out more about me & feel free to connect with me here:
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![LaTeX](https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
