@@ -18,4 +18,4 @@ Find out more about me & feel free to connect with me here:
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![LaTeX](https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
