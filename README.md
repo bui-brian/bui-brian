@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Brian Bui, I'm a rising sophomore at [The University of Nebraska-Lincoln](https://www.unl.edu/) studying both Computer Science and Mathematics.
+My name is Brian Bui, I'm a rising junior at [The University of Nebraska-Lincoln](https://www.unl.edu/) studying Computer Science with a minor in Mathematics!
 
 Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bui-brian/)](https://www.linkedin.com/in/bui-brian/)
