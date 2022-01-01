@@ -4,10 +4,6 @@ My name is Brian Bui, I'm an aspiring junior at [The University of Nebraska-Linc
 
 Currently learning React and Full Stack Development!
 
-Find out more about me & feel free to connect with me here:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bui-brian/)](https://www.linkedin.com/in/bui-brian/)
-[![Gmail Badge](https://img.shields.io/badge/-bui.brian99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bui.brian99@gmail.com)](mailto:bui.brian99@gmail.com)
-
 ## ⚡ Languages & Technologies
 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
@@ -28,3 +24,7 @@ Find out more about me & feel free to connect with me here:
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+
+## Find out more about me & feel free to connect with me here:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bui-brian/)](https://www.linkedin.com/in/bui-brian/)
+[![Gmail Badge](https://img.shields.io/badge/-bui.brian99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bui.brian99@gmail.com)](mailto:bui.brian99@gmail.com)
