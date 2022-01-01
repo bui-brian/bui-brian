@@ -2,6 +2,8 @@
 
 My name is Brian Bui, I'm an aspiring junior at [The University of Nebraska-Lincoln](https://www.unl.edu/) studying Computer Science with a minor in Mathematics!
 
+Currently learning React and Full Stack Development!
+
 Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bui-brian/)](https://www.linkedin.com/in/bui-brian/)
 [![Gmail Badge](https://img.shields.io/badge/-bui.brian99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bui.brian99@gmail.com)](mailto:bui.brian99@gmail.com)
