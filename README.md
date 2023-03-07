@@ -1,8 +1,6 @@
 ### Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Brian Bui, I'm an aspiring junior at [The University of Nebraska-Lincoln](https://www.unl.edu/) studying Computer Science with a minor in Mathematics!
-
-Currently learning React and Full Stack Development!
+My name is Brian Bui, I'm a senior at [The University of Nebraska-Lincoln](https://www.unl.edu/) studying Computer Science with a minor in Mathematics! Expected to graduate in May 2023!
 
 ## ⚡ Languages & Technologies
 
@@ -15,7 +13,6 @@ Currently learning React and Full Stack Development!
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
